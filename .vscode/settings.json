@@ -1,0 +1,16 @@
+{
+
+    "css.validate": false,
+    "editor.quickSuggestions": {
+        "strings": true
+    },
+    "tailwindCSS.emmetCompletions": true,
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#0A3425",
+        "titleBar.activeBackground": "#0E4934",
+        "titleBar.activeForeground": "#F3FDF9"
+    },
+    "cSpell.words": [
+        "chakra"
+    ]
+}
